@@ -25,4 +25,4 @@ Dans IDE : Faire Croquis / inclure une bibliothéque / ajouter la bibliothèque 
 Dans le fichier PubSubClient.h : La valeur du paramètre doit être augmentée à 512 octets. Cette définition se trouve à la ligne 26 du fichier, sinon cela ne fonctionne pas avec Domoticz
 
 ## Tuto vidéo
-Vidéo explicative sur YouTube :
+Vidéo explicative sur YouTube : https://youtu.be/xMDCO_Npq_4
