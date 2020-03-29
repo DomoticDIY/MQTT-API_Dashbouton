@@ -1,10 +1,12 @@
-# MQTT-API_Dashbouton
+# MQTT-API Créer un Dashbouton
 DashButtons, ou action via un bouton poussoir
 
 Dans la suite des créations d'objets connectés, nous allons voir comment créer un déclencheur vers Domoticz. L’objet connecté est présenté sous deux formes, l'une via MQTT, et l'autre via les API Domoticz.
 L'intéret de cet exemple avec un bouton poussoir est de vous donner des idées de création, comme par exemple un détecteur d'ouverture de porte ou de fenêtre.
 
 # Explications et Tuto vidéo
+Il y a deux fichiers INO, l'un pour la connexion via MQQT, et l'autre pour une connexion via API Domoticz.
+
 ## Utilitaires à installer
 - Driver USB CH340G : https://wiki.wemos.cc/downloads
 - Logiciel Arduino IDE : https://www.arduino.cc/en/Main/Software
